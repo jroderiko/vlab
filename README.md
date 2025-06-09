@@ -8,10 +8,10 @@ Here's a table of contents for current and pending projects:
 
 ## Table of Contents
 1) [VM Specs VirtualBox](https://github.com/jroderiko/vlab/blob/main/VLab-VM_Specs_and_Virtualbox.pdf)
-    This doc provides a quick overview of VirtualBox and
+    || This doc provides a quick overview of VirtualBox and
    includes an example showing how to setup a virtual machine.
 2) [Active Directory](https://github.com/jroderiko/vlab/blob/main/VLab-Active_Directory.pdf)
-    This is a walkthrough for setting up a simple Active Directory configuration with
+    || This is a walkthrough for setting up a simple Active Directory configuration with
    1 Server and 1 Workstation.
 
 
