@@ -4,7 +4,7 @@ I'm an IT professional with an interest in cybersecurity. Here is where I'll be 
 The hope is that others can take this information and adapt it for their own projects or learn a skill to help them in the field. 
 I'll also be posting anything else I've worked on that I find fun or intersting. For example I'm working on ricing my Hyprland setup, 
 so those dotfiles will probably make their way here as well!
-Here's a table of contents for current and pending projects:
+
 
 ## Table of Contents
 1) [VM Specs VirtualBox](https://github.com/jroderiko/vlab/blob/main/VLab-VM_Specs_and_Virtualbox.pdf) || This doc provides a quick overview of VirtualBox and
