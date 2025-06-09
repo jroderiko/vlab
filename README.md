@@ -7,10 +7,10 @@ so those dotfiles will probably make their way here as well!
 Here's a table of contents for current and pending projects:
 
 ## Table of Contents
-1) [[VLab-VirtualBox_and_VM_Specs.pdf | VirtualBox and VM Specs]]
+1) [VM Specs VirtualBox](https://github.com/jroderiko/vlab/blob/main/VLab-VM_Specs_and_Virtualbox.pdf)
     This doc provides a quick overview of VirtualBox and
    includes an example showing how to setup a virtual machine.
-2) Active Directory
+2) [Active Directory](https://github.com/jroderiko/vlab/blob/main/VLab-Active_Directory.pdf)
     This is a walkthrough for setting up a simple Active Directory configuration with
    1 Server and 1 Workstation.
 
