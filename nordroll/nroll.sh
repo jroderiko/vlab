@@ -19,15 +19,13 @@ rolltype="$1"
 # Rolltype determines which list to use
 case $rolltype in
 	l | L)
-		nlist="/path/to/nordroll/nordl.ls"
 		nscope="25"
-		nroll $nlist
+		nroll ~/.config/nordroll/nordl.ls
 		;;
 	g | G)
 		
-		nlist="/path/to/nordroll/nordg.ls"
 		nscope="126"
-		nroll $nlist
+		nroll ~/.config/nordroll/nordg.ls
 		;;
 	*)
 		echo "Error:Incorrect arg";;
