@@ -16,6 +16,7 @@ The **local** list contains cities in North America while the
 **global** list contains all 126 countries available in NordVPN.
 
 Local:  use "l" or "L"
+
 Global: use "g" or "G"
 
 ### Example
