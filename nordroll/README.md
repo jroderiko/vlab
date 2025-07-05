@@ -1,7 +1,7 @@
 # NordRoll - NordVPN CLI Randomizer
 
 This is a simple tool for connecting to a random location
-using the NordVPN command line tool. The tool consists of 2
+using the NordVPN command line utility. The tool consists of 2
 location lists and a script. The script is called using an alias
 and allows you to choose either a "local" or "global" scope when connecting.
 
