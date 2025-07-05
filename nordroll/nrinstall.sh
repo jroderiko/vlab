@@ -1,6 +1,7 @@
 #!/bin/bash
 echo ""
 echo "*** NordRoll Setup Script v1 ***"
+echo ""
 echo "Creating NordRoll Directory..."
 mkdir ~/.config/nordroll
 cd ~/.config/nordroll
