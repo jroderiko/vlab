@@ -65,11 +65,5 @@ To add to the list use the same command with `>>` instead of `>`
 
 `nordvpn cities Country >> /path/to/nordroll/nordl.ls`
 
-If you do adjust the lists make sure to adjust the scope for that list in the **nroll.sh** script.
-
-The nscope number is the number of lines in the file.
-
-`nscope="num"`
-
 
 
