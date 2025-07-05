@@ -26,8 +26,12 @@ Global: use "g" or "G"
 # Script Install
 
 1. Download the nrinstall.sh file
-2. Make the file executable using `sudo chmod+x /path/to/nrinstall.sh`
-3. Run script using `/path/to/nrinstall.sh`
+2. Make the file executable using
+ 
+   `sudo chmod+x /path/to/nrinstall.sh`
+3. Run script using
+  
+   `/path/to/nrinstall.sh`
 4. Enter your password if prompted to make **nroll.sh** executable
 5. Open a new terminal and the alias **nordrl** will now be usable
 
@@ -40,8 +44,11 @@ Global: use "g" or "G"
     The lines that need to be changed look like this:
    
     `nroll ~/.config/nordroll/nordl.ls"`
-5. Make the **nroll.sh** file executable using `sudo chmod+x /path/to/nroll.sh`
+5. Make the **nroll.sh** file executable using
+  
+   `sudo chmod+x /path/to/nroll.sh`
 6. Add an alias for the script
+ 
    `echo "alias nordrl=/path/to/nroll.sh" >> ~/.bashrc`
 7. Open a new terminal and the alias **nordrl** will now be usable
 
