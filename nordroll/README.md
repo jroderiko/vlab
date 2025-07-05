@@ -38,11 +38,12 @@ Global: use "g" or "G"
     The **nordroll** directory can be placed anywhere. I have mine in my *.config* directory.
 3. Once you place the nordroll directory make sure the list paths in the **nroll.sh** file are correct. 
     The lines that need to be changed look like this:
+   
     `nroll ~/.config/nordroll/nordl.ls"`
-4. Make the **nroll.sh** file executable using sudo chmod+x /path/to/nroll.sh
-5. Add an alias for the script
+5. Make the **nroll.sh** file executable using `sudo chmod+x /path/to/nroll.sh`
+6. Add an alias for the script
    `echo "alias nordrl=/path/to/nroll.sh" >> ~/.bashrc`
-6. Open a new terminal and the alias **nordrl** will now be usable
+7. Open a new terminal and the alias **nordrl** will now be usable
 
 # Configuration
 
