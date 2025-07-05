@@ -30,7 +30,7 @@ in the **nroll.sh** file. The lines that need to be changed look like this:
 *nlist="/path/to/nordroll/..."*
 
 Both lists can be adjusted to your needs. If you want your "local"
-list to be a different region you can easily change it this way:
+list to be a different region you can easily change it with this command:
 
 *nordvpn cities Country > /path/to/nordroll/nordl.ls*
 
