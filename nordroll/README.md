@@ -60,7 +60,8 @@ list to be a different region you can easily change it with this command:
 `nordvpn cities Country > /path/to/nordroll/nordl.ls`
 
 This will overrite the local list with the cities from Country.
-To add to the list use the same command with ">>" instead of ">"
+
+To add to the list use the same command with `>>` instead of `>`
 
 `nordvpn cities Country >> /path/to/nordroll/nordl.ls`
 
