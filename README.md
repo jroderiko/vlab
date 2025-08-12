@@ -11,10 +11,5 @@ so those dotfiles will probably make their way here as well!
    includes an example showing how to setup a virtual machine.
 2) [Active Directory](https://github.com/jroderiko/vlab/blob/main/VLab-Active_Directory.pdf) || This is a walkthrough for setting up a simple Active Directory configuration with
    1 Server and 1 Workstation.
-
-
-### Pending
-- pfSense and Routing || This will be a walkthrough showing the installation process, interface configuration,
-  and routing using the pfSense firewall.
-
+3) [Nordroll](https://github.com/jroderiko/vlab/tree/main/nordroll) || A script for randomizing VPN location using NordVPN.
 
