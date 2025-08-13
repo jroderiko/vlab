@@ -9,4 +9,5 @@ I'm an IT professional with an interest in cybersecurity. Here is where I'll be 
 2) [Active Directory](https://github.com/jroderiko/vlab/blob/main/VLab-Active_Directory.pdf) || This is a walkthrough for setting up a simple Active Directory configuration with
    1 Server and 1 Workstation.
 3) [Nordroll](https://github.com/jroderiko/vlab/tree/main/nordroll) || A script for randomizing VPN location using NordVPN.
+4) [Malware Investigation](https://github.com/jroderiko/vlab/blob/main/Malware%20Investigation%20-%20clamAV%20%26%20Virus%20Total.pdf) || A brief investigation using the ClamAV antivirus scanner and VirusTotal.
 
